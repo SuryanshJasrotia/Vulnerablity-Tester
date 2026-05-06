@@ -1,5 +1,3 @@
-# Vulnerability Tester
-A comprehensive suite of tools and scripts for penetration testing, vulnerability assessment, and security research. This repository contains various custom and tailored tools categorized by the different phases of a penetration testing lifecycle.
 
 ## Categories
 The tools are organized into the following categories:
